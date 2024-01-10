@@ -10,7 +10,7 @@ packages:
         - name: qrcode
           binary: false
           main: ""
-          runtime: python:default
+          runtime: python:3.11
           web: true
           websecure: false
           parameters: {}
